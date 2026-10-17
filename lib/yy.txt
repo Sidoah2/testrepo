@@ -1,1 +1,27 @@
 .X..CC CJHV
+
+
+
+
+
+git init 
+
+
+
+git status 
+
+git add .
+
+git commit -m "HHHHHH"
+
+
+
+
+
+git push -u origin main
+
+
+
+
+
+
